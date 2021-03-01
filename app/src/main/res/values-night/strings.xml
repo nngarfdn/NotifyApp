@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notify_me">Notify Me</string>
+    <string name="update_me">Update Me</string>
+    <string name="cancel_me">Cancel Me</string>
+</resources>
